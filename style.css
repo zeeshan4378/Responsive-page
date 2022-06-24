@@ -1,0 +1,99 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+#navbar{
+	background-image: url(./1.jpg);
+	width: 100%;
+	height: auto;
+	background-size: cover;
+
+}
+.one h1{
+	color: white;
+	letter-spacing:  5px;
+}
+.two{
+	width: 100%;
+}
+.one{
+	
+	text-align: center;
+	margin-top: 120px;
+}
+.one p{
+	font-size: 18px;
+
+}
+.btn1{
+	height: 45px;
+	width: 140px;
+	border-color: tomato;
+	color: white;
+	background-color: red;
+	border-radius: 7px;
+	margin-bottom: 5px;
+
+}
+#sheryar{
+	height: auto;
+	background-color: lightgray;
+	width: 100%;
+}
+.three{
+	text-align: center;
+	padding-top: 50px;
+}
+.four{
+	text-align: center;
+	background-color: white;
+
+	
+}
+.four img{
+	height: 50vh;
+	background-color: white;
+
+	width: 100%
+}
+.four h6{
+	font-size: 20px;
+	background-color:white
+}
+
+.five{
+	text-align: center;
+
+	
+}
+.five button{
+	height: 45px;
+	width: 160px;
+	border-radius: 7px;
+	margin-bottom: 10px;
+}
+.six{
+	color: white;
+	background-color: red;
+	border-color: tomato;
+	margin-bottom: 10px;
+
+
+}
+.seven{
+	color: white;
+	background-color: black;
+	border-color: white
+}
+.seven:hover{
+	color: blue;
+	background-color: white;
+	border-color: red;
+}
+.six:hover{
+	color: yellow;
+	background-color: black;
+	border-color: darkblue;
+}
